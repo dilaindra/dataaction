@@ -1,1 +1,11 @@
-
+{
+  "profile": [
+    { "id": "1", "name": "Budi Santoso", "status": "Member Gold" },
+    { "id": "2", "name": "Siti Aminah", "status": "Member Silver" },
+    { "id": "08123456789", "name": "Agus Hermawan", "status": "Platinum" }
+  ],
+  "orders": [
+    { "id": "ORD-101", "item": "Laptop", "process": "Dikirim" },
+    { "id": "ORD-102", "item": "Mouse", "process": "Dikemas" }
+  ]
+}
